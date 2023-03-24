@@ -360,6 +360,7 @@ To save the world from creating user accounts and installing software applicatio
 * 🌎 [AlarmDJ](alarmdj.com) - Online Alarm clock, use MP3 files and YouTube videos as alarm.
 * 🌎 [Edubirdie](edubirdie.com/plagiarism-checker) - An online plagiarism checker which gives percentage of similarity comparing our content with online resources.
 * 🌎 [Morsify](morsify.net) - Online Morse code translator.
+* 🌎 [3DHousePlanner](3dhouseplanner.com) - 3D home design software on the web.
 
 -----
 
