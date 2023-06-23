@@ -360,7 +360,7 @@ To save the world from creating user accounts and installing software applicatio
 * 🌎 [Edubirdie](edubirdie.com/plagiarism-checker) - An online plagiarism checker which gives percentage of similarity comparing our content with online resources.
 * 🌎 [Morsify](morsify.net) - Online Morse code translator.
 * 🌎 [Dub](dub.sh/) - Open-source link shortener.
-* 🌎 [3dHousePlanner](www.3dhouseplanner.com/) - 3D home design application on the web.
+* [3dHousePlanner](3dhouseplanner.com) - 3D home design application on the web.
 -----
 
 ## License
