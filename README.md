@@ -343,6 +343,7 @@ To save the world from creating user accounts and installing software applicatio
 * 🌎 [Randommer](randommer.io/) - Random data generator and validator.
 * 🌎 [Meditation Timer](meditation.koti.cloud/) - A meditation timer to keep track of your sessions.
 * 🌎 [Bucket Listy](bucketlisty.com/) - Bucket list manager with unique ideas where you can add your own.
+* 🌎 [PromptSplitter](promptsplitter.app/) - Free tool to split long ChatGPT prompts into smaller, manageable chunks & prompts library
 
 
 ### Miscellaneous
