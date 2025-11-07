@@ -165,6 +165,7 @@ To save the world from creating user accounts and installing software applicatio
 * 🌎 [nitrome](www.nitrome.com/) - Collection of free pixelart games. New games doesn't require flash.
 * 🌎 [Orion](orion.lukasbach.com/) - Board/puzzle game. Cleverly combine tiles from bags to fill up the board.
 * 🌎 [Gidd.io](gidd.io/) - Collection of classic games like UNO, Yatzy, Scattergories and GeoGuess.
+* 🌎 [iogames.party](https://iogames.party/) - Collection of free Browser-Games / IO-Games.
 
 ### Graphics, Image and Design
 
@@ -186,7 +187,7 @@ To save the world from creating user accounts and installing software applicatio
 * 🌎 [CleanIcons](cleanicons.xyz) - Download Font Awesome icon fonts as PNG's.
 * 🌎 [Mancer](mancer.app) - Design, share, and order T-Shirts from the browser. Designs can be exported as PNGs.
 * 🌎 [Branition Colors](branition.com/colors) - Hand-curated collection of color pallets best fitted for branding.
-
+* 🌎 [SankeyDiagram.net](https://sankeydiagram.net/) - Create & share Sankey Flow-Diagrams in the browser from plaintext data.
 
 ### Internet Downloaders
 
@@ -361,6 +362,7 @@ To save the world from creating user accounts and installing software applicatio
 * 🌎 [Morsify](morsify.net) - Online Morse code translator.
 * 🌎 [Dub](dub.sh/) - Open-source link shortener.
 * 🌎 [3dHousePlanner](www.3dhouseplanner.com/) - 3D home design application on the web.
+* 🌎 [giga.tools](https://giga.tools/) - Collection of different in-browser tools for developers, designers, and power-users ranging from video editing, image editing, to text editing, and more.
 -----
 
 ## License
