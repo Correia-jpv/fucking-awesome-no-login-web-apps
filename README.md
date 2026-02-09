@@ -317,6 +317,8 @@ To save the world from creating user accounts and installing software applicatio
 * 🌎 [DiffNow](www.diffnow.com/) - Advanced, online and free File Difference checking, with options like Upload file, compare files by their links or Text Input.
 * 🌎 [Write.as](write.as/) - Cross-platform writing and publishing tool that supports Markdown and editing / deleting past posts.
 * 🌎 [Emojify](madelinemiller.dev/apps/emojify/) - A tool to spice up text, lyrics, or poems by adding emojis.
+* 🌎 [Project Kickoff Email Generator (Cobalt Studio)](https://techchenko.github.io/cobaltstudio-products/tools/project-kickoff-email-generator/) - Generate a kickoff email (agenda + next steps + access request). No signup.
+* 🌎 [Testimonial Request Email Generator (Cobalt Studio)](https://techchenko.github.io/cobaltstudio-products/tools/testimonial-request-email-generator/) - Generate 3 testimonial request emails + subject lines. No signup.
 
 
 <a name="utilities"></a>
