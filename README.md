@@ -288,7 +288,7 @@ To save the world from creating user accounts and installing software applicatio
 * 🌎 [ChooseMyPC](choosemypc.net/) - Search for the best combination of parts considering your requirements for your PC under a given budget.
 * 🌎 [Flaticon](www.flaticon.com/) - Largest search engine for free icons.
 * 🌎 [icon8](icons8.com/) - Designers, download the design stuff for free — icons, photos, UX illustrations, and music for your videos.
-
+* 🌎 [Related Repos](https://relatedrepos.com/) - Discover related open source projects. Find alternatives and other similar repositories. Updated daily.
 
 ### Study and Education
 
