@@ -54,6 +54,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Until AM](http://mix.until.am/) - Online music mixer, DJ software.
 * 🌎 [YOU.DJ](you.dj/) - Online music mixer, DJ software sourcing music from SoundCloud.
 * [VideoToolbox](http://videotoolbox.com) `[Account]` - Video editor with all the common editing features. Size limited to 600mb.
+* [Global Free TV](https://www.globalfreetv.com) - Watch 5,000+ live TV channels from 100+ countries online. No signup, no app download.
 * 🌎 [AI Vocal Remover](vocalremover.org) - Separate voice from music by artificial intelligence.
 * 🌎 [Ambient Mixer](www.ambient-mixer.com/) - Listen to free audio atmospheres (e.g. Scottish Rain/Slytherin Common Room) or mix your own ambient sound online.
 * 🌎 [Vileo](lukasbach.github.io/vileo/) - Record your screen or webcam and download the video from within your browser.
