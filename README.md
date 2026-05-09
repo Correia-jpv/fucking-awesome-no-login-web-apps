@@ -275,6 +275,7 @@ To save the world from creating user accounts and installing software applicatio
 * [ObjGen](http://www.objgen.com/) - This app helps you generate code (JSON, HTML, etc) in real time as you type in only the key words, types and properties using a text based syntax.
 * 🌎 [JsonFormatter](jsonformatter.curiousconcept.com) - View json in human readable form.
 * 🌎 [DebugBear Speed Test](www.debugbear.com/test/website-speed) - Test site speed and Core Web Vitals.
+* [TinyTools](https://tinytools-smoky.vercel.app/) - Free single-purpose web utilities, all browser-based, no signup. Includes SEO meta tag generator, favicon generator, OG image generator, AI robots.txt generator, AI background remover (runs locally), color palette generator, and more. Open source.
 
 
 ### Search Engines
