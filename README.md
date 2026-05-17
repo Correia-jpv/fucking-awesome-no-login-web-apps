@@ -1,4 +1,12 @@
-# Awesome Web Apps (that work without login)
+
+
+---
+
+## File Tools
+
+### PDF & Document
+
+* **[EveryTool4U](https://everytool4u.com)** — 108 free browser-based file tools: PDF (merge, split, compress, sign, OCR, redact, rotate), image (background removal, resize, compress, HEIC→JPG), video to GIF, QR codes, invoice generator, JSON formatter. All processing is local — zero upload, zero account.# Awesome Web Apps (that work without login)
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Mentioned in Awesome](https://awesome.re/mentioned-badge.svg)](https://awesome.re)
@@ -370,4 +378,4 @@ To save the world from creating user accounts and installing software applicatio
 To the extent possible under law, [Avi Aryan](http://aviaryan.in) has waived all copyright and related or neighboring rights to this work.
 
 ## Source
-<b><code>&nbsp;&nbsp;3220⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;321🍴</code></b> [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps))
+<b><code>&nbsp;&nbsp;3219⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;320🍴</code></b> [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps))
