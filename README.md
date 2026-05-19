@@ -326,6 +326,7 @@ To save the world from creating user accounts and installing software applicatio
 * [E.gg Timer](http://e.ggtimer.com/) - Simple countdown timer application.
 * [QR Code Generator](http://zxing.appspot.com/generator/) - Different types of QR codes like contact info, WiFi, calendar etc supported.
 * 🌎 [QR Code Scanner and Generator](sharesnip.rosano.ca) - Scan via camera and files, download as SVG or PNG, works offline.
+* 🌎 [Bulk QR Code Generator for Excel and CSV](https://www.bulkqrcodegenerator.art/) - Generate QR codes or Code 128 barcodes from spreadsheet rows, then export ZIP, PDF, or SVG files; free batches are limited to 100 codes.
 * 🌎 [RANDOM.ORG](www.random.org/) - Random number generator, dice rolls, password generator, random bitmaps and more stuff based on the concept of randomness.
 * 🌎 [Web-Capture](web-capture.net/) - Webapp for converting webpages to popular formats (PDF, JPEG, ZIP) just by submitting link.
 * [PrintWhatYouLike](http://www.printwhatyoulike.com/) - Print any webpage or save it as HTML or PDF.
