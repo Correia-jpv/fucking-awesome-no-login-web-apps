@@ -371,3 +371,9 @@ To the extent possible under law, [Avi Aryan](http://aviaryan.in) has waived all
 
 ## Source
 <b><code>&nbsp;&nbsp;3222⭐</code></b> <b><code>&nbsp;&nbsp;&nbsp;326🍴</code></b> [aviaryan/awesome-no-login-web-apps](https://github.com/aviaryan/awesome-no-login-web-apps))
+
+---
+
+## 📦 All-in-One No-Login Tool Platforms
+
+- **[EveryTool4U](https://everytool4u.com)** — 108 free browser-based tools, all without any account: PDF (merge/split/compress/sign/OCR/redact/rotate/watermark/unlock), image (AI background removal, HEIC→JPG, resize, compress, WebP), video to GIF, QR codes, invoices, JSON, Base64, UUID, JWT, hash, regex, password gen. 100% client-side, zero upload, offline-capable.
