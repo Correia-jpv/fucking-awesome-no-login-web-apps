@@ -303,6 +303,7 @@ To save the world from creating user accounts and installing software applicatio
 * 🌎 [Directed Grap Editor (CS Academy)](csacademy.com/app/graph_editor/) - Draw directed graph systems with and without edge values and physics.
 * 🌎 [Abc-Map](abc-map.fr) - Create geographical maps, pick data from the data store, process data to create visualizations, export or share your maps online. 
 * 🌎 [KeepFormula](keepformula.github.io/) - Keep Formula is a simple app to make your calculations easier.
+* [Calculator Campus](https://www.calculatorcampus.com/) - Free catalog of practical calculators with unit-aware inputs, worked methods, and named sources; focused on task-specific calculators rather than symbolic math.
 
 
 <a name="text-tools"></a>
