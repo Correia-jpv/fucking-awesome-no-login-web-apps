@@ -136,6 +136,8 @@ To save the world from creating user accounts and installing software applicatio
 * 🌎 [Picute Subtitle Converter](picute.net/en/tools/srt-to-vtt-converter) - Convert subtitle files between SRT and VTT formats in the browser. No upload, no login.
 
 
+* 🌎 [FileOnTap HEIC to PNG](https://fileontap.com/heic-to-png/) - Free browser-based HEIC to PNG converter, files never uploaded.
+
 ### File Hosting/Sharing
 
 * 🌎 [Clyp](clyp.it/) - Audio sharing without limits, rich API.
