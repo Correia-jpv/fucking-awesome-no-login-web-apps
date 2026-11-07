@@ -64,6 +64,7 @@ To save the world from creating user accounts and installing software applicatio
 * 🌎 [Whisper Web](whisperweb.dev/) - Transcribe audio and video to text in the browser with OpenAI's Whisper. Runs on-device, no login, 100+ languages.
 * 🌎 [Vizz.fm](vizz.fm) - Browser-based music visualizer with customizable scenes and presets.
 * 🌎 [Slant it](slantit.app) - Create catchy 3D product videos from screen recordings in few minutes.
+* [DownloadPremium](https://downloadpremium.net) - Free no-login web app to download videos and images from social platforms by pasting a link.
 
 
 ### Business and Finance
