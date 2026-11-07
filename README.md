@@ -310,6 +310,7 @@ To save the world from creating user accounts and installing software applicatio
 * 🌎 [Resume Nation](resume-nation.github.io) - An open source resume builder progressive web app which can work offline. It has a few themes to choose from and it can export the resume in PDF form.
 * 🌎 [Daily Todo](dailytodo.org/) -  Simple todo list maker.
 * 🌎 [Mailinator](www.mailinator.com/) - Disposable email service.
+* 🌎 [MeetNewAI](meetnewai.com/) - Free bilingual directory of AI tools, AI games and MCP servers organized by the job you need done. No signup to browse.
 * 🌎 [Randommer](randommer.io/) - Random data generator and validator.
 * 🌎 [Bucket Listy](bucketlisty.com/) - Bucket list manager with unique ideas where you can add your own.
 * 🌎 [Folicle Hair Self-Checks](folicle.app/tools) - Free Norwood scale, Ludwig scale and hair-shedding self-check calculators that run entirely in the browser with no signup.
