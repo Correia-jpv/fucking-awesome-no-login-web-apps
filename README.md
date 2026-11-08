@@ -241,6 +241,7 @@ To save the world from creating user accounts and installing software applicatio
 * 🌎 [GTmetrix](gtmetrix.com/) - Analyze your site’s speed and make it faster.
 * 🌎 [BuildWith](builtwith.com/) - Find the technology stack to know everything about a website.
 * 🌎 [WooRank](www.woorank.com/) - SEO Audit tool, provides website review with global and local rank in terms of traffic generated.
+* 🌎 [Vaneform](vaneform.com/) - Free website traffic checker: look up monthly visitors, trends, and traffic sources for any domain.
 * [CSS Typeset](http://csstypeset.com/) - Visual typeset editor. Play around with font-face, word-spacing and other text attributes and download the corresponding CSS.
 * 🌎 [CSS Autoprefixer](autoprefixer.github.io/) - A postprocessor for handling vendor prefixes in CSS. Just paste the regular CSS and get the vendor prefix handled CSS instantly.
 * 🌎 [CSS Matic](www.cssmatic.com/) - CSS tools to quickly generate gradients, border radius, noise textures and box shadow and get corresponding CSS or SASS.
