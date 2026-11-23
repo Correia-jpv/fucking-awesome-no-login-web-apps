@@ -196,6 +196,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Anime Openings](http://openings.moe/) - Free anime radio, listen or download anime opening and ending videos.
 * [ongaku](https://ongaku.js.org/) - Online anime music radio, with [desktop port](https://github.com/Anshuman-Verma/ongaku-desktop).
 * [Radio Garden](http://radio.garden/) - Listen to thousands of radio stations worldwide by selecting a city on the globe.
+* [StagePeek](https://stagepeek.live) - Interactive 2D seating charts and 3D concert venue sightlines with 1x-10x zoom across 223 venues in 5 languages (41 curated venues free without sign-up; Pro unlocks all 223 venues).
 
 
 ### Notepads and Notebooks
