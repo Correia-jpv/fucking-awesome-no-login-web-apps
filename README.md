@@ -49,6 +49,7 @@ To save the world from creating user accounts and installing software applicatio
 
 ### Audio and Video
 
+- [SMDownloader](https://www.smdownloader.com/) - High-speed, privacy-first online video and audio downloader supporting YouTube (up to 720p HD MP4 free, 1080p/4K on Pro), TikTok, Instagram, Twitter/X, and 30+ platforms with zero ads or tracking.
 * [bfxr](http://www.bfxr.net/) - Make sound effects for your games.
 * [MP3 Cut](http://mp3cut.net/) - Online audio cutter.
 * [TwistedWeb Online](https://twistedwave.com/online/) - Powerful audio editor. Files not saved online.
